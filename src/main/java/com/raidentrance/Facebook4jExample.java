@@ -12,7 +12,7 @@ import facebook4j.auth.AccessToken;
 
 /**
  * @author raidentrance
- *
+ * 
  */
 public class Facebook4jExample {
 	public static void main(String[] args) throws FacebookException {
